@@ -1,0 +1,11 @@
+    i         xi        xs        xa      signo     limite    error   
+    0       3.0000    6.0000    4.5000                        2.7500  
+    1       3.0000    4.5000    4.5000   Negativo  Superior   2.7500  
+    2       3.7500    4.5000    3.7500   Positivo  Inferior  -1.1875  
+    3       3.7500    4.1250    4.1250   Negativo  Superior   0.6406  
+    4       3.9375    4.1250    3.9375   Positivo  Inferior  -0.3086  
+    5       3.9375    4.0312    4.0312   Negativo  Superior   0.1572  
+    6       3.9844    4.0312    3.9844   Positivo  Inferior  -0.0779  
+    7       3.9844    4.0078    4.0078   Negativo  Superior   0.0391  
+    8       3.9961    4.0078    3.9961   Positivo  Inferior  -0.0195  
+La raíz es: 4.001953125
